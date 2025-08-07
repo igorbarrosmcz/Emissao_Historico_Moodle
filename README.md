@@ -1,6 +1,4 @@
-==============================
-Sistema de Geração de Certidões
-==============================
+======= Sistema de Geração de Certidões =======
 
 Este sistema automatiza a geração de certidões com histórico do curso com notas e atividades em PDF para alunos de cursos cadastrados no Moodle, com base nos dados da base MySQL do Moodle e modelos Word personalizados.
 
